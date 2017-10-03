@@ -1,0 +1,1221 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.18.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="78F2A1DB9D7D4E059F50863157B975EC"/>
+<title text="WebShop"/>
+<style key="system.bright-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="30" x="-145" y="-95"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="ndGhtoR2VUC8TMJyfNxFtA" x="1044.00" y="774.00" layout="strict-horizontal" palette="1" colorinfo="1" text="WebShop">
+<style borderstyle="sbsEllipse"/>
+</topic>
+<topic id="1" parent="0" guid="maVbgP2Fvkewky_mszIBpA" x="1249.00" y="33.97" palette="2" colorinfo="-1" text="Manufacturers">
+<style borderstyle="sbsCloud">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="0" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="0" b="0"/>
+</topic>
+<topic id="2" parent="1" guid="0cW8dFTkDEe1235Blq2zog" x="1449.45" y="33.97" palette="0" colorinfo="-1" text="Manufacturer">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="255" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="255" b="0"/>
+</topic>
+<topic id="3" parent="2" guid="jsYxlEV5ikeQUOtnQOC11Q" x="1636.07" y="-10.59" palette="0" colorinfo="-1" text="manufacturerId">
+<style borderstyle="sbsDiamond">
+<textcolor r="255" g="255" b="255"/>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</style>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</topic>
+<topic id="4" parent="2" guid="bPrkM1tGC0-Ze6KTWE0FAQ" x="1660.10" y="54.14" palette="0" colorinfo="-1" text="manufacturerName">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="5" parent="4" x="1825.45" y="54.14" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="6" parent="2" guid="SPEpDcG7rU6Z5pe8xtDPKA" x="1656.85" y="98.70" palette="0" colorinfo="-1" text="manufacturerLogo">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="7" parent="6" x="1818.95" y="98.70" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="8" parent="0" guid="E3t1Q2oZ5UKVf7OykqiI_g" x="1231.63" y="339.87" palette="3" colorinfo="-1" text="Customers">
+<style borderstyle="sbsCloud">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="0" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="0" b="0"/>
+<parent-relation guid="LePPsSyB2ka_ylCpGXlwqg">
+<style>
+<color r="255" g="0" b="0"/>
+</style>
+</parent-relation>
+</topic>
+<topic id="9" parent="8" guid="XLCkhjOBJUCK8RpWB1Vo5Q" x="1399.12" y="339.87" palette="0" colorinfo="-1" text="Customer">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="255" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="255" b="0"/>
+</topic>
+<topic id="10" parent="9" x="1556.64" y="161.63" palette="0" colorinfo="-1" text="customerId">
+<style borderstyle="sbsDiamond">
+<textcolor r="255" g="255" b="255"/>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</style>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</topic>
+<topic id="11" parent="9" guid="RtnJE8EhCkaPGPTcjGPFzg" x="1544.77" y="218.56" palette="0" colorinfo="-1" text="gender">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="12" parent="11" x="1660.72" y="218.56" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="13" parent="9" guid="H3bglF6b3UibLJzCAn3loQ" x="1554.52" y="263.12" palette="0" colorinfo="-1" text="firstName">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="14" parent="13" x="1680.22" y="263.12" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="15" parent="9" guid="VnLPG17qpE6PMmvsv3Kq9w" x="1553.22" y="307.68" palette="0" colorinfo="-1" text="lastName">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="16" parent="15" x="1677.62" y="307.68" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="17" parent="9" guid="FGdzu9dSmEGK-rEbmrOdZQ" x="1552.57" y="352.24" palette="0" colorinfo="-1" text="birthDate">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="18" parent="17" x="1676.32" y="352.24" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="19" parent="9" guid="FJLta1xRgUWn4XJjk7XGoA" x="1571.42" y="396.80" palette="0" colorinfo="-1" text="emailAddress">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="20" parent="19" x="1714.02" y="396.80" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="21" parent="9" guid="ZBW4R4ge-kCm_ADqb2DeoQ" x="1574.02" y="441.36" palette="0" colorinfo="-1" text="phoneNumber">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="22" parent="21" x="1719.22" y="441.36" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="23" parent="9" guid="NGHrDuELZkqVzsRfAuDFUA" x="1561.67" y="485.92" palette="0" colorinfo="-1" text="faxNumber">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="24" parent="23" x="1694.52" y="485.92" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="25" parent="9" guid="e02oRI2sMkmKiBVHkVwqsw" x="1553.87" y="530.48" palette="0" colorinfo="-1" text="password">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="26" parent="25" x="1678.92" y="530.48" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="27" parent="0" guid="lNolzu7nMU618necDbBt5A" x="1218.94" y="722.33" palette="4" colorinfo="-1" text="Reviews">
+<style borderstyle="sbsCloud">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="0" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="0" b="0"/>
+<parent-relation guid="2rxvSO1vHEKGP83wmMzjNw">
+<style>
+<color r="255" g="0" b="0"/>
+</style>
+</parent-relation>
+</topic>
+<topic id="28" parent="27" guid="0XVoJrcyeEyPWTj07gVV9Q" x="1365.29" y="722.33" palette="0" colorinfo="-1" text="Review">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="255" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="255" b="0"/>
+</topic>
+<topic id="29" parent="28" guid="nNwJwOXIpUScMKtKsL6Yew" x="1506.86" y="589.08" palette="0" colorinfo="-1" text="reviewId">
+<style borderstyle="sbsDiamond">
+<textcolor r="255" g="255" b="255"/>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</style>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</topic>
+<topic id="30" parent="28" guid="HcJo8JYCJ0eq_RRO9voiLQ" x="1514.36" y="654.05" palette="0" colorinfo="-1" text="customerId">
+<style borderstyle="sbsDiamond">
+<textcolor r="255" g="255" b="255"/>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</style>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</topic>
+<topic id="31" parent="28" guid="-6-fn2O3Zkm_9J11Vplrcw" x="1509.36" y="720.46" palette="0" colorinfo="-1" text="productId">
+<style borderstyle="sbsDiamond">
+<textcolor r="255" g="255" b="255"/>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</style>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</topic>
+<topic id="32" parent="28" guid="jv-q3YGKqkOCzTBsQm0e8g" x="1527.19" y="774.51" palette="0" colorinfo="-1" text="reviewRating">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="33" parent="32" x="1667.84" y="774.51" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="34" parent="28" guid="rtm2dlsrNkqf2ipMR1_buQ" x="1526.54" y="819.07" palette="0" colorinfo="-1" text="reviewReads">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="35" parent="34" x="1666.54" y="819.07" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="36" parent="28" guid="Y4WjFSJbRUKw3rAT8DY81g" x="1519.39" y="863.63" palette="0" colorinfo="-1" text="reviewText">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="37" parent="36" x="1652.24" y="863.63" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="38" parent="0" guid="1nT80H6A8Umic9keoYR8SA" x="1230.97" y="1070.01" palette="5" colorinfo="-1" text="Addresses">
+<style borderstyle="sbsCloud">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="0" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="0" b="0"/>
+<parent-relation guid="_tUYXlCZKUqHVfBo_a8Nqg">
+<style>
+<color r="255" g="0" b="0"/>
+</style>
+</parent-relation>
+</topic>
+<topic id="39" parent="38" guid="ttIEU92xBkyMQ8EJTovQxg" x="1391.93" y="1070.01" palette="0" colorinfo="-1" text="Address">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="255" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="255" b="0"/>
+</topic>
+<topic id="40" parent="39" guid="q2sxl29ePUyqbd_Go2qODg" x="1539.10" y="923.96" palette="0" colorinfo="-1" text="addressId">
+<style borderstyle="sbsDiamond">
+<textcolor r="255" g="255" b="255"/>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</style>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</topic>
+<topic id="41" parent="39" guid="WCLeALO6ok-ooStXpdn4vg" x="1543.60" y="990.66" palette="0" colorinfo="-1" text="customerId">
+<style borderstyle="sbsDiamond">
+<textcolor r="255" g="255" b="255"/>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</style>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</topic>
+<topic id="42" parent="39" guid="RVnk48s5mkynCsNEc9skRw" x="1573.98" y="1047.59" palette="0" colorinfo="-1" text="addressFromDate">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="43" parent="42" x="1732.18" y="1047.59" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="44" parent="39" guid="O-UGvHjbpk-_bovrm9Bcow" x="1562.93" y="1092.15" palette="0" colorinfo="-1" text="addressToDate">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="45" parent="44" x="1710.08" y="1092.15" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="46" parent="39" guid="3eaM6a9RGUel4frM69rC0A" x="1559.03" y="1136.71" palette="0" colorinfo="-1" text="addressStreet">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="47" parent="46" x="1702.28" y="1136.71" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="48" parent="39" guid="jzG2VwgRuUWUsaa92dx8HA" x="1535.63" y="1181.27" palette="0" colorinfo="-1" text="zipCode">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="49" parent="48" x="1655.48" y="1181.27" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="50" parent="39" guid="7KNSFfP4706MkqSiHW7trQ" x="1553.83" y="1225.83" palette="0" colorinfo="-1" text="addressType">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="51" parent="50" x="1691.88" y="1225.83" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="52" parent="0" guid="tB1eR63Da0Gp6-32YFYcxA" x="1216.94" y="1340.79" palette="6" colorinfo="-1" text="Baskets">
+<style borderstyle="sbsCloud">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="0" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="0" b="0"/>
+<parent-relation guid="4Zl2T8PR9kyNxM7VgFHT1Q">
+<style>
+<color r="255" g="0" b="0"/>
+</style>
+</parent-relation>
+</topic>
+<topic id="53" parent="52" guid="oQFutRm5ME2qPkI8Ecusmw" x="1358.03" y="1340.79" palette="0" colorinfo="-1" text="Basket">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="255" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="255" b="0"/>
+</topic>
+<topic id="54" parent="53" guid="VXa91K3kXkepv2rtzs-xrw" x="1495.35" y="1283.86" palette="0" colorinfo="-1" text="basketId">
+<style borderstyle="sbsDiamond">
+<textcolor r="255" g="255" b="255"/>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</style>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</topic>
+<topic id="55" parent="53" x="1503.85" y="1348.25" palette="0" colorinfo="-1" text="customerId">
+<style borderstyle="sbsDiamond">
+<textcolor r="255" g="255" b="255"/>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</style>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</topic>
+<topic id="56" parent="53" guid="UMdhBu9HHE2xEIApqKaIwA" x="1534.23" y="1405.18" palette="0" colorinfo="-1" text="basketDateAdded">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="57" parent="56" guid="K1TuV-dqIU-8dDqg2VGISw" x="1692.43" y="1405.18" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="58" parent="0" guid="cVXJf7jxdk2u7KsgGzqsmg" x="1257.68" y="1517.25" palette="7" colorinfo="-1" text="BasketProducts">
+<style borderstyle="sbsCloud">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="0" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="0" b="0"/>
+<parent-relation guid="R3SVv8LStUq-i7AKcRFrEQ">
+<style>
+<color r="255" g="0" b="0"/>
+</style>
+</parent-relation>
+</topic>
+<topic id="59" parent="58" guid="2CP3afyhZEiYqLlvlBIwTQ" x="1471.36" y="1517.25" palette="0" colorinfo="-1" text="BasketProduct">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="255" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="255" b="0"/>
+</topic>
+<topic id="60" parent="59" x="1640.53" y="1463.20" palette="0" colorinfo="-1" text="basketId">
+<style borderstyle="sbsDiamond">
+<textcolor r="255" g="255" b="255"/>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</style>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</topic>
+<topic id="61" parent="59" guid="8pUXB1vd4Uyn3XTQr_QDBQ" x="1644.03" y="1524.71" palette="0" colorinfo="-1" text="productId">
+<style borderstyle="sbsDiamond">
+<textcolor r="255" g="255" b="255"/>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</style>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</topic>
+<topic id="62" parent="59" guid="ttNXpwa9d02OrgimGXECOw" x="1641.06" y="1578.75" palette="0" colorinfo="-1" text="quantity">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="63" parent="62" x="1760.91" y="1578.75" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="64" parent="0" guid="6af1jwauU0Onh8f4mzUmCg" x="865.72" y="48.62" palette="8" colorinfo="-1" text="Products">
+<style borderstyle="sbsCloud">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="0" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="0" b="0"/>
+<parent-relation guid="5LA0AFm8Ok-RAoxpMkeqyQ">
+<style>
+<color r="255" g="0" b="0"/>
+</style>
+</parent-relation>
+</topic>
+<topic id="65" parent="64" guid="TUsPvvS5jUmOB6uuDjPxlA" x="714.73" y="48.62" palette="0" colorinfo="-1" text="Product">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="255" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="255" b="0"/>
+</topic>
+<topic id="66" parent="65" guid="c13ueKgo20aBU2YWR_29qA" x="584.86" y="-127.21" palette="0" colorinfo="-1" text="Id">
+<style borderstyle="sbsDiamond">
+<textcolor r="255" g="255" b="255"/>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</style>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</topic>
+<topic id="67" parent="65" guid="xQUJLGmhDU2_8empxzL6Hg" x="551.36" y="-62.24" palette="0" colorinfo="-1" text="ManufacturerId">
+<style borderstyle="sbsDiamond">
+<textcolor r="255" g="255" b="255"/>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</style>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</topic>
+<topic id="68" parent="65" guid="eo5rVNj400SQ3xBZHWX5Rw" x="550.88" y="2.19" palette="0" colorinfo="-1" outline-collapsed="True" text="productName">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="69" parent="68" x="409.58" y="2.19" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="70" parent="65" guid="rvHeQOwJjUmRqNuLX1mdqQ" x="528.78" y="46.75" palette="0" colorinfo="-1" text="productDescription">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="71" parent="70" x="365.38" y="46.75" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="72" parent="65" guid="D95jhf1kXkqpTzoNFk0z4w" x="553.48" y="91.31" palette="0" colorinfo="-1" text="productPrice">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="73" parent="72" x="414.78" y="91.31" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="74" parent="65" guid="1wxCwet3-Ea025uC0T7p6g" x="563.23" y="135.87" palette="0" colorinfo="-1" text="productUrl">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="75" parent="74" x="434.28" y="135.87" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="76" parent="65" guid="3d9z1ZNhn0WlQvpsK6C--Q" x="517.08" y="180.43" palette="0" colorinfo="-1" text="productDateAvailable">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="77" parent="76" x="341.98" y="180.43" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="78" parent="65" guid="dJkt-8XszECCyWrg8OkxjQ" x="524.23" y="224.99" palette="0" colorinfo="-1" text="productChangeDate">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="79" parent="78" x="356.28" y="224.99" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="80" parent="0" guid="vnv0UsAWMUuOzeiOAl0E4g" x="834.99" y="395.19" palette="2" colorinfo="-1" text="ProductImages">
+<style borderstyle="sbsCloud">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="0" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="0" b="0"/>
+</topic>
+<topic id="81" parent="80" guid="9gRrKneYgUSCRbPEdX7eGw" x="627.94" y="395.19" palette="0" colorinfo="-1" text="ProductImage">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="255" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="255" b="0"/>
+</topic>
+<topic id="82" parent="81" guid="-D2wVNIuWkKHLIPBRa-mBA" x="437.22" y="296.58" palette="0" colorinfo="-1" text="productImageId">
+<style borderstyle="sbsDiamond">
+<textcolor r="255" g="255" b="255"/>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</style>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</topic>
+<topic id="83" parent="81" guid="NqDYxsBEdEW33LOwnvhmgA" x="457.22" y="371.66" palette="0" colorinfo="-1" text="productId">
+<style borderstyle="sbsDiamond">
+<textcolor r="255" g="255" b="255"/>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</style>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</topic>
+<topic id="84" parent="81" guid="ovuyox-qGEWgKox1lPf84Q" x="467.99" y="425.70" palette="0" colorinfo="-1" text="image">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="85" parent="84" x="355.94" y="425.70" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="86" parent="81" guid="Lv2Wv9jHGEi8B9ZK7izHpQ" x="443.29" y="470.26" palette="0" colorinfo="-1" text="htmlContent">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="87" parent="86" x="306.54" y="470.26" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="88" parent="81" guid="qSgGeAcsLUqJrPaMwc10TA" x="427.04" y="514.82" palette="0" colorinfo="-1" text="imageSortOrder">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="89" parent="88" x="274.04" y="514.82" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="90" parent="0" guid="deJwrJ4Kk0ORVkPURc6HlQ" x="828.31" y="684.44" palette="3" colorinfo="-1" text="ProductSpecials">
+<style borderstyle="sbsCloud">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="0" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="0" b="0"/>
+<parent-relation guid="YuacgsI510Cdo2ITC079Ng">
+<style>
+<color r="255" g="0" b="0"/>
+</style>
+</parent-relation>
+</topic>
+<topic id="91" parent="90" guid="RD0EY9-5akOQN9YA-YMsYg" x="609.38" y="684.44" palette="0" colorinfo="-1" text="ProductSpecial">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="255" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="255" b="0"/>
+</topic>
+<topic id="92" parent="91" guid="75RKh9V90UOQ4413xr6ROw" x="414.46" y="585.84" palette="0" colorinfo="-1" text="promotionCode">
+<style borderstyle="sbsDiamond">
+<textcolor r="255" g="255" b="255"/>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</style>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</topic>
+<topic id="93" parent="91" x="433.46" y="660.33" palette="0" colorinfo="-1" text="productId">
+<style borderstyle="sbsDiamond">
+<textcolor r="255" g="255" b="255"/>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</style>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</topic>
+<topic id="94" parent="91" guid="MSh_hVoOOk-yvouQP49GlA" x="399.38" y="714.38" palette="0" colorinfo="-1" text="newProductPrice">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="95" parent="94" x="242.48" y="714.38" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="96" parent="91" guid="xXOd52zIuECV8Zunht0BRQ" x="433.18" y="758.94" palette="0" colorinfo="-1" text="startDate">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="97" parent="96" x="310.08" y="758.94" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="98" parent="91" guid="ej3guSErFUyGwNQRXuNFwg" x="425.38" y="803.50" palette="0" colorinfo="-1" text="expiryDate">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="99" parent="98" x="294.48" y="803.50" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="100" parent="0" guid="zsgkHiN1fU2ddaqI0Y4fkA" x="877.74" y="1037.60" palette="4" colorinfo="-1" text="Orders">
+<style borderstyle="sbsCloud">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="0" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="0" b="0"/>
+<parent-relation guid="HI_2aXLxKESX-BC8gl12qQ">
+<style>
+<color r="255" g="0" b="0"/>
+</style>
+</parent-relation>
+</topic>
+<topic id="101" parent="100" guid="melJybeJE0KK9Tv2-ArwDA" x="747.23" y="1037.60" palette="0" colorinfo="-1" text="Order">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="255" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="255" b="0"/>
+</topic>
+<topic id="102" parent="101" guid="LrP42BXZT0-GmtAIFUnwcg" x="617.30" y="859.50" palette="0" colorinfo="-1" text="orderId">
+<style borderstyle="sbsDiamond">
+<textcolor r="255" g="255" b="255"/>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</style>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</topic>
+<topic id="103" parent="101" guid="tMDQaERZ8kG3vS_uVT6MJw" x="605.30" y="921.87" palette="0" colorinfo="-1" text="customerId">
+<style borderstyle="sbsDiamond">
+<textcolor r="255" g="255" b="255"/>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</style>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</topic>
+<topic id="104" parent="101" guid="PMqxBYGc4EKDGBEfL2zoYQ" x="609.80" y="988.58" palette="0" colorinfo="-1" text="addressId">
+<style borderstyle="sbsDiamond">
+<textcolor r="255" g="255" b="255"/>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</style>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</topic>
+<topic id="105" parent="101" guid="ZEDwd9UlWka5al2XvAzJqw" x="607.43" y="1042.91" palette="0" colorinfo="-1" text="reference">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="106" parent="105" x="481.73" y="1042.91" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="107" parent="101" guid="Frr7LCVY30-6V6zhvR289w" x="597.03" y="1087.47" palette="0" colorinfo="-1" text="billingName">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="108" parent="107" x="460.93" y="1087.47" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="109" parent="101" guid="bXJZZqeDSU6ERLFf4WiTDg" x="589.88" y="1132.03" palette="0" colorinfo="-1" text="deliveryName">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="110" parent="109" x="446.63" y="1132.03" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="111" parent="101" guid="GGtoOSulw0y8-5Cu7ZnVRw" x="590.53" y="1176.59" palette="0" colorinfo="-1" text="emailAddress">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="112" parent="111" x="447.93" y="1176.59" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="113" parent="101" guid="S98K3wSN2kuS7dZFPScK-w" x="590.53" y="1221.15" palette="0" colorinfo="-1" text="purchaseDate">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="114" parent="113" x="447.93" y="1221.15" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="115" parent="0" guid="a66G8Lcut0y600q4fx75Vw" x="824.31" y="1473.73" palette="2" colorinfo="-1" text="OrderedProducts">
+<style borderstyle="sbsCloud">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="0" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="0" b="0"/>
+</topic>
+<topic id="116" parent="115" guid="AvFDcDeQA0WiENtRPKtBPQ" x="598.11" y="1473.73" palette="0" colorinfo="-1" text="OrderedProduct">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="255" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="255" b="0"/>
+</topic>
+<topic id="117" parent="116" guid="Lo1lj5WWBE68AY5xtlerdg" x="393.44" y="1295.91" palette="0" colorinfo="-1" text="orderIedProductd">
+<style borderstyle="sbsDiamond">
+<textcolor r="255" g="255" b="255"/>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</style>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</topic>
+<topic id="118" parent="116" guid="epnGAzL2Lkexux9yvQYpbg" x="418.94" y="1374.16" palette="0" colorinfo="-1" text="productId">
+<style borderstyle="sbsDiamond">
+<textcolor r="255" g="255" b="255"/>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</style>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</topic>
+<topic id="119" parent="116" guid="yb1pjcfr1k-31QfV1clM3g" x="413.94" y="1440.58" palette="0" colorinfo="-1" text="customerId">
+<style borderstyle="sbsDiamond">
+<textcolor r="255" g="255" b="255"/>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</style>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="255" g="255" b="0"/>
+</topic>
+<topic id="120" parent="116" guid="Ie7pggjTg0WYtuvac8jP9Q" x="400.46" y="1497.51" palette="0" colorinfo="-1" text="productName">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="121" parent="120" x="259.16" y="1497.51" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="122" parent="116" guid="SD0WY9xbIky5I-ZeIfmTIg" x="378.36" y="1542.07" palette="0" colorinfo="-1" text="productDescription">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="123" parent="122" x="214.96" y="1542.07" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="124" parent="116" guid="EO2eGjwwPUu5tn6q0f4r7A" x="403.06" y="1586.63" palette="0" colorinfo="-1" text="productPrice">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="125" parent="124" x="264.36" y="1586.63" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="126" parent="116" guid="ba_l8ROYOU-ttzNnA5X9rQ" x="408.26" y="1631.19" palette="0" colorinfo="-1" text="productTax">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="127" parent="126" x="274.76" y="1631.19" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+<topic id="128" parent="116" guid="3JuzMpiiLEm1XE6SKFTb0Q" x="421.91" y="1675.75" palette="0" colorinfo="-1" text="quantity">
+<style borderstyle="sbsEllipse">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="0" g="0" b="255"/>
+</topic>
+<topic id="129" parent="128" x="302.06" y="1675.75" palette="0" colorinfo="-1">
+<style borderstyle="sbsRectangle">
+<textcolor r="0" g="0" b="0"/>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</style>
+<fillcolor r="192" g="192" b="192"/>
+<strokecolor r="255" g="128" b="0"/>
+</topic>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>

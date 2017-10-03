@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webShop xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:/C:/Users/S/Desktop/Studies/Primary%20%20subjects/XML/3rd%20class/XmlSchemaWebShop.xsd">
+    <products>
+    <product id="pi11" manufacturerId="m1">
+        <productName>amazon echo</productName>
+        <productDescription>speaker</productDescription>
+        <productPrice>12</productPrice>
+        <productUrl>http://something</productUrl>
+        <productDateAvailable>2017-04-09</productDateAvailable>
+        <productChangeDate>2017-04-09</productChangeDate>
+    </product>
+    <product id="pi12" manufacturerId="m1">
+        <productName>amazon echo</productName>
+        <productDescription>speaker</productDescription>
+        <productPrice>12</productPrice>
+        <productUrl>http://something</productUrl>
+        <productDateAvailable>2017-04-09</productDateAvailable>
+        <productChangeDate>2017-04-09</productChangeDate>
+    </product>
+    </products>
+    <productImages>
+    <productImage productImageId="pi1" productId="pi11">
+        <image>asnsaddi</image>
+        <hTMLContent>http://abudavi</hTMLContent>
+        <imageSortOrder>date</imageSortOrder>
+    </productImage>
+    <productImage productImageId="pi2" productId="pi12">
+        <image>asndi</image>
+        <hTMLContent>http://soemtas</hTMLContent>
+        <imageSortOrder>time</imageSortOrder>
+    </productImage>
+    </productImages>
+  
+    <productSpecials>
+    <productSpecial promotionCode="pc1" productId="pi11">
+        <newProductPrice>12</newProductPrice>
+        <startDate>2017-04-09</startDate>
+        <expiryDate>2017-04-09</expiryDate>
+    </productSpecial>
+        <productSpecial promotionCode="pc2" productId="pi12">
+            <newProductPrice>15</newProductPrice>
+            <startDate>2017-04-09</startDate>
+            <expiryDate>2017-04-09</expiryDate>
+        </productSpecial>
+    </productSpecials>
+    
+    <manufacturers>
+        <manufacturer manufacturerId="m1">
+            <manufacturerName>Amazon</manufacturerName>
+            <manufacturerLogo>http://somethin</manufacturerLogo>
+        </manufacturer>
+        <manufacturer manufacturerId="m2">
+            <manufacturerName>Google</manufacturerName>
+            <manufacturerLogo>http://gogol</manufacturerLogo>
+        </manufacturer>
+    </manufacturers>
+    
+        <customers>
+    <customer customerId="ci1">
+        <gender>1</gender>
+        <firstName>Miroslav</firstName>
+        <middleName>Miki</middleName>
+        <lastName>Maksimovic</lastName>
+        <birthDate>2000-04-09</birthDate>
+        <emailAddress>mirki@gmail.com</emailAddress>
+        <phoneNumber>232141</phoneNumber>
+        <faxNumber>2134214</faxNumber>
+        <password>ansdmoe1423</password>
+    </customer>
+    <customer customerId="ci2">
+        <gender>1</gender>
+        <firstName>Tomo</firstName>
+        <middleName>Tom</middleName>
+        <lastName>Klacar</lastName>
+        <birthDate>2000-04-09</birthDate>
+        <emailAddress>tomo@gmail.com</emailAddress>
+        <phoneNumber>242342</phoneNumber>
+        <faxNumber>241342</faxNumber>
+        <password>eofk342sd</password>
+    </customer>
+        </customers>
+    <orders>
+    <order orderId="oi1" customerId="ci1" addressId="ai1">
+        <reference>echo</reference>
+        <billingName>Miroslav</billingName>
+        <deliveryName>miroslav</deliveryName>
+        <emailAddress>asdmi@gmail.com</emailAddress>
+        <purchaseDate>2017-09-04</purchaseDate>
+    </order>
+    <order orderId="oi2" customerId="ci2" addressId="ai1">
+        <reference>home</reference>
+        <billingName>Tomo</billingName>
+        <deliveryName>tomo</deliveryName>
+        <emailAddress>asdmi@gmail.com</emailAddress>
+        <purchaseDate>2017-09-04</purchaseDate>
+    </order>
+    </orders>
+    <orderedProducts>
+    <orderedProduct orderedProductId="opi1" productId="pi1" orderId="oi1">
+        <productName>echo</productName>
+        <productDescription>speaker</productDescription>
+        <productPrice>12</productPrice>
+        <productTax>11</productTax>
+        <quantity>23</quantity>
+    </orderedProduct>
+    <orderedProduct orderedProductId="opi2" productId="pi12" orderId="oi2">
+        <productName>amazon</productName>
+        <productDescription>home</productDescription>
+        <productPrice>12</productPrice>
+        <productTax>11</productTax>
+        <quantity>23</quantity>
+    </orderedProduct>
+    </orderedProducts>
+    <reviews>
+    <review reviewId="ri1" customerId="ci1" productId="pi1">
+        <reviewRating>10</reviewRating>
+        <reviewReads>10</reviewReads>
+        <ReviewText>nice</ReviewText>
+    </review>
+    <review reviewId="ri2" customerId="ci2" productId="pi12">
+        <reviewRating>6</reviewRating>
+        <reviewReads>5</reviewReads>
+        <ReviewText>bad</ReviewText>
+    </review>
+    </reviews>
+    <addresses>
+    <address addressId="ai1" customerId="ci1">
+        <addressFromDate>2000-04-09</addressFromDate>
+        <addressToDate>2000-04-09</addressToDate>
+        <addressStreet>bosnia</addressStreet>
+        <ZipCode>73300</ZipCode>
+        <addressType>flat</addressType>
+    </address>
+    <address addressId="ai2" customerId="ci2">
+        <addressFromDate>2000-04-09</addressFromDate>
+        <addressToDate>2000-04-09</addressToDate>
+        <addressStreet>hungary</addressStreet>
+        <ZipCode>3515</ZipCode>
+        <addressType>house</addressType>
+    </address>
+    </addresses>
+   
+    <baskets>
+    <basket basketId="bi1" customerId="ci1">
+        <basketDateAdded>2000-04-09</basketDateAdded>
+    </basket>
+    <basket basketId="bi2" customerId="ci2">
+        <basketDateAdded>2000-04-09</basketDateAdded>
+    </basket>
+    </baskets>
+    <basketProducts>
+    <basketProduct basketId="bi1" productId="pi11">
+        <quantity>4</quantity>
+    </basketProduct>
+    <basketProduct basketId="bi2" productId="pi12">
+        <quantity>10</quantity>
+    </basketProduct>
+    </basketProducts>
+</webShop>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:complexType name="product_type">
+        <xs:sequence>
+            <xs:element name="productName" type="xs:string"/>
+            <xs:element name="productDescription" type="xs:string"/>
+            <xs:element name="productPrice" type="xs:float"/>
+            <xs:element name="productUrl" type="xs:string"/>
+            <xs:element name="productDateAvailable" type="xs:date"/>
+            <xs:element name="productChangeDate" type="xs:date"/>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:ID" use="required"/>
+        <xs:attribute name="manufacturerId" type="xs:IDREF" use="required"/>
+    </xs:complexType>
+
+    <xs:complexType name="productImage_type">
+        <xs:sequence>
+            <xs:element name="image" type="xs:string"/>
+            <xs:element name="hTMLContent" type="xs:string"/>
+            <xs:element name="imageSortOrder" type="xs:string"/>
+        </xs:sequence>
+        <xs:attribute name="productImageId" type="xs:ID" use="required"/>
+        <xs:attribute name="productId" type="xs:IDREF" use="required"/>
+    </xs:complexType>
+
+    <xs:complexType name="manufacturer_type">
+        <xs:sequence>
+            <xs:element name="manufacturerName" type="xs:string"/>
+            <xs:element name="manufacturerLogo" type="xs:string"/>
+        </xs:sequence>
+        <xs:attribute name="manufacturerId" type="xs:ID" use="required"/>
+    </xs:complexType>
+
+    <xs:complexType name="productSpecial_type">
+        <xs:sequence>
+            <xs:element name="newProductPrice" type="xs:float"/>
+            <xs:element name="startDate" type="xs:date"/>
+            <xs:element name="expiryDate" type="xs:date"/>
+        </xs:sequence>
+        <xs:attribute name="promotionCode" type="xs:ID" use="required"/>
+        <xs:attribute name="productId" type="xs:IDREF" use="required"/>
+    </xs:complexType>
+
+    <xs:complexType name="customer_type">
+        <xs:sequence>
+            <xs:element name="gender" type="xs:boolean"/>
+            <xs:element name="firstName" type="xs:string"/>
+            <xs:element name="middleName" type="xs:string"/>
+            <xs:element name="lastName" type="xs:string"/>
+            <xs:element name="birthDate" type="xs:date"/>
+            <xs:element name="emailAddress" type="xs:string"/>
+            <xs:element name="phoneNumber" type="xs:string"/>
+            <xs:element name="faxNumber" type="xs:string"/>
+            <xs:element name="password" type="xs:string"/>
+        </xs:sequence>
+        <xs:attribute name="customerId" type="xs:ID" use="required"/>
+    </xs:complexType>
+
+    <xs:complexType name="address_type">
+        <xs:sequence>
+            <xs:element name="addressFromDate" type="xs:date"/>
+            <xs:element name="addressToDate" type="xs:date"/>
+            <xs:element name="addressStreet" type="xs:string"/>
+            <xs:element name="ZipCode" type="xs:int"/>
+            <xs:element name="addressType" type="xs:string"/>
+
+        </xs:sequence>
+        <xs:attribute name="addressId" type="xs:ID" use="required"/>
+        <xs:attribute name="customerId" type="xs:IDREF" use="required"/>
+    </xs:complexType>
+
+    <xs:complexType name="order_type">
+        <xs:sequence>
+            <xs:element name="reference" type="xs:string"/>
+            <xs:element name="billingName" type="xs:string"/>
+            <xs:element name="deliveryName" type="xs:string"/>
+            <xs:element name="emailAddress" type="xs:string"/>
+            <xs:element name="purchaseDate" type="xs:string"/>
+        </xs:sequence>
+        <xs:attribute name="orderId" type="xs:ID" use="required"/>
+        <xs:attribute name="customerId" type="xs:IDREF" use="required"/>
+        <xs:attribute name="addressId" type="xs:IDREF" use="required"/>
+    </xs:complexType>
+
+    <xs:complexType name="orderStatus_type">
+        <xs:sequence>
+            <xs:element name="orderStatusDescription" type="xs:string"/>
+        </xs:sequence>
+        <xs:attribute name="OrderStatusCode" type="xs:ID" use="required"/>
+    </xs:complexType>
+
+
+    <xs:complexType name="orderedProduct_type">
+        <xs:sequence>
+            <xs:element name="productName" type="xs:string"/>
+            <xs:element name="productDescription" type="xs:string"/>
+            <xs:element name="productPrice" type="xs:float"/>
+            <xs:element name="productTax" type="xs:float"/>
+            <xs:element name="quantity" type="xs:int"/>
+        </xs:sequence>
+        <xs:attribute name="orderedProductId" type="xs:ID" use="required"/>
+        <xs:attribute name="productId" type="xs:IDREF" use="required"/>
+        <xs:attribute name="orderId" type="xs:IDREF" use="required"/>
+    </xs:complexType>
+
+
+    <xs:complexType name="review_type">
+        <xs:sequence>
+            <xs:element name="reviewRating" type="xs:int"/>
+            <xs:element name="reviewReads" type="xs:string"/>
+            <xs:element name="ReviewText" type="xs:string"/>
+        </xs:sequence>
+        <xs:attribute name="reviewId" type="xs:ID" use="required"/>
+        <xs:attribute name="customerId" type="xs:IDREF" use="required"/>
+        <xs:attribute name="productId" type="xs:IDREF" use="required"/>
+    </xs:complexType>
+
+    <xs:complexType name="basket_type">
+        <xs:sequence>
+            <xs:element name="basketDateAdded" type="xs:date"/>
+        </xs:sequence>
+        <xs:attribute name="basketId" type="xs:ID" use="required"/>
+        <xs:attribute name="customerId" type="xs:IDREF" use="required"/>
+    </xs:complexType>
+
+    <xs:complexType name="basketStatus_type">
+        <xs:sequence>
+            <xs:element name="basketStatusDescription" type="xs:string"/>
+        </xs:sequence>
+        <xs:attribute name="basketStatusCode" type="xs:ID" use="required"/>
+    </xs:complexType>
+
+    <xs:complexType name="basketProduct_type">
+        <xs:sequence>
+            <xs:element name="quantity" type="xs:int"/>
+        </xs:sequence>
+        <xs:attribute name="basketId" type="xs:IDREF" use="required"/>
+        <xs:attribute name="productId" type="xs:IDREF" use="required"/>
+    </xs:complexType>
+
+
+
+    <xs:complexType name="webShop_type">
+        <xs:sequence>
+
+            <xs:element name="products">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="product" type="product_type" maxOccurs="unbounded">
+                        </xs:element>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+
+            <xs:element name="productImages">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="productImage" type="productImage_type"
+                            maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+
+
+            <xs:element name="productSpecials">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="productSpecial" type="productSpecial_type"
+                            maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+
+            <xs:element name="manufacturers">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="manufacturer" type="manufacturer_type"
+                            maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+
+
+            <xs:element name="customers">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="customer" type="customer_type" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+
+            <xs:element name="orders">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="order" type="order_type" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+
+
+            <xs:element name="orderedProducts">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="orderedProduct" type="orderedProduct_type"
+                            maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+
+            <xs:element name="reviews">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="review" type="review_type" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+
+            <xs:element name="addresses">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="address" type="address_type" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+
+            <xs:element name="baskets">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="basket" type="basket_type" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+
+            <xs:element name="basketProducts">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="basketProduct" type="basketProduct_type"
+                            maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:element name="webShop" type="webShop_type"/>
+
+</xs:schema>
